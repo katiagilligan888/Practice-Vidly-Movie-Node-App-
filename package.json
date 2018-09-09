@@ -1,11 +1,14 @@
 {
-  "name": "Vidly Movie Node Practice Application",
+  "name": "Vidly-Movie-Node-Practice-App",
   "version": "1.0.0",
-  "description": "The purpose of this exercise is to solidify skills used in the Mosh Udemy course",
-  "main": "index.js", 
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "start": "nodemon"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "express": "^4.16.3"
   }
